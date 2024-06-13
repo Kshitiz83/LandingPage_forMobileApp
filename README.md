@@ -6,12 +6,12 @@ This is a responsive landing page for a finance app designed using HTML and CSS.
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_NAME.git
+    git clone https://github.com/Kshitiz83/LandingPage_forMobileApp.git
     ```
 
 2. **Navigate to the project directory**:
     ```sh
-    cd REPOSITORY_NAME
+    cd LandingPage_forMobileApp
     ```
 
 3. **Open the `index.html` file** in your web browser to view the landing page.
